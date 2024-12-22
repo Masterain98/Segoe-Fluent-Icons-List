@@ -141,10 +141,16 @@
         "Lock": "\ue72e"
     },
     {
+        "BlockedSite": "\ue72f"
+    },
+    {
         "ReportHacked": "\ue730"
     },
     {
         "EMI": "\ue731"
+    },
+    {
+        "Blocked": "\ue733"
     },
     {
         "FavoriteStar": "\ue734"
@@ -411,7 +417,13 @@
         "Light": "\ue793"
     },
     {
+        "Effects": "\ue794"
+    },
+    {
         "AspectRatio": "\ue799"
+    },
+    {
+        "Contrast": "\ue7a1"
     },
     {
         "DataSenseBar": "\ue7a5"
@@ -424,6 +436,9 @@
     },
     {
         "Crop": "\ue7a8"
+    },
+    {
+        "PhotoCollection": "\ue7aa"
     },
     {
         "OpenWith": "\ue7ac"
@@ -1653,6 +1668,9 @@
         "TapAndSend": "\ue9a1"
     },
     {
+        "TextBulletListSquare": "\ue9a4"
+    },
+    {
         "FitPage": "\ue9a6"
     },
     {
@@ -1917,6 +1935,9 @@
         "StatusWarning": "\uea84"
     },
     {
+        "VolumeDisabled": "\uea85"
+    },
+    {
         "Puzzle": "\uea86"
     },
     {
@@ -1953,6 +1974,9 @@
         "BatteryCharging10": "\uea93"
     },
     {
+        "BatteryCharging10": "\uea93"
+    },
+    {
         "BatterySaver9": "\uea94"
     },
     {
@@ -1971,6 +1995,21 @@
         "ForwardCall": "\ueac2"
     },
     {
+        "DesktopLeafTwo": "\ueac7"
+    },
+    {
+        "Emojiplay": "\uead4"
+    },
+    {
+        "EmojiBrush": "\uead5"
+    },
+    {
+        "EyeTracking": "\uead6"
+    },
+    {
+        "EyeTrackingText": "\uead7"
+    },
+    {
         "Trackers": "\ueadf"
     },
     {
@@ -1984,6 +2023,15 @@
     },
     {
         "StockDown": "\ueb11"
+    },
+    {
+        "ClicktoDoOff": "\ueb19"
+    },
+    {
+        "ClicktoDo": "\ueb1d"
+    },
+    {
+        "GenericApp": "\ueb3b"
     },
     {
         "Design": "\ueb3c"
@@ -2394,6 +2442,9 @@
         "Cafe": "\uec32"
     },
     {
+        "FormatText": "\uec34"
+    },
+    {
         "MobSignal1": "\uec37"
     },
     {
@@ -2541,6 +2592,9 @@
         "PoliceCar": "\uec81"
     },
     {
+        "UpdateStatusDot2": "\uec83"
+    },
+    {
         "Draw": "\uec87"
     },
     {
@@ -2553,10 +2607,16 @@
         "ScrollUpDown": "\uec8f"
     },
     {
+        "Uninstall": "\uec91"
+    },
+    {
         "DateTime": "\uec92"
     },
     {
         "HoloLens": "\uec94"
+    },
+    {
+        "CloudNotSynced": "\uec9c"
     },
     {
         "Tiles": "\ueca5"
@@ -2671,6 +2731,9 @@
     },
     {
         "SubtitlesAudio": "\ued1f"
+    },
+    {
+        "RestartUpdate2": "\ued21"
     },
     {
         "OpenFolderHorizontal": "\ued25"
@@ -2922,6 +2985,21 @@
         "TaskViewSettings": "\uee40"
     },
     {
+        "FullHiraganaPrivateMode": "\uee41"
+    },
+    {
+        "FullKatakanaPrivateMode": "\uee42"
+    },
+    {
+        "HalfAlphaPrivateMode": "\uee43"
+    },
+    {
+        "HalfKatakanaPrivateMode": "\uee44"
+    },
+    {
+        "FullAlphaPrivateMode": "\uee45"
+    },
+    {
         "MiniExpand2Mirrored": "\uee47"
     },
     {
@@ -2961,6 +3039,9 @@
         "ActionCenterQuietNotification": "\uee7a"
     },
     {
+        "FIDOPasskey": "\uee7e"
+    },
+    {
         "TrackersMirrored": "\uee92"
     },
     {
@@ -2968,6 +3049,15 @@
     },
     {
         "Wheel": "\uee94"
+    },
+    {
+        "StopSolid": "\uee95"
+    },
+    {
+        "RAM": "\ueea0"
+    },
+    {
+        "CPU": "\ueea1"
     },
     {
         "VirtualMachineGroup": "\ueea3"
@@ -3036,6 +3126,9 @@
         "PlayerSettings": "\uef58"
     },
     {
+        "TextEdit": "\uef60"
+    },
+    {
         "LandscapeOrientation": "\uef6b"
     },
     {
@@ -3046,6 +3139,12 @@
     },
     {
         "Speech": "\uefa9"
+    },
+    {
+        "AppIconDefaultAdd": "\uefda"
+    },
+    {
+        "CRMScheduleReports": "\uefff"
     },
     {
         "KnowledgeArticle": "\uf000"
@@ -3531,6 +3630,60 @@
         "LocaleLanguage": "\uf2b7"
     },
     {
+        "ReadOutLoud": "\uf112"
+    },
+    {
+        "ProjectToDevice": "\uf117"
+    },
+    {
+        "TaskManagerApp": "\uf120"
+    },
+    {
+        "HeadlessDevice": "\uf191"
+    },
+    {
+        "Beaker": "\uf196"
+    },
+    {
+        "WindowsInsider": "\uf1ad"
+    },
+    {
+        "PowerButtonUpdate2": "\uf1b1"
+    },
+    {
+        "LeafTwo": "\uf1e8"
+    },
+    {
+        "GridViewSmall": "\uf232"
+    },
+    {
+        "Earbudsingle": "\uf27c"
+    },
+    {
+        "HearingAid": "\uf27f"
+    },
+    {
+        "MobSnooze": "\uf285"
+    },
+    {
+        "MobNotificationBell": "\uf2a3"
+    },
+    {
+        "MobNotificationBellFilled": "\uf2a5"
+    },
+    {
+        "MobSnoozeFilled": "\uf2a8"
+    },
+    {
+        "BulletedList2": "\uf2c7"
+    },
+    {
+        "BulletedList2Mirrored": "\uf2c8"
+    },
+    {
+        "CirclePause": "\uf2d9"
+    },
+    {
         "PassiveAuthentication": "\uf32a"
     },
     {
@@ -3580,6 +3733,9 @@
     },
     {
         "IDBadge": "\uf427"
+    },
+    {
+        "BatterySaver": "\uf432"
     },
     {
         "DynamicLock": "\uf439"
@@ -3637,6 +3793,9 @@
     },
     {
         "Sticker2": "\uf4aa"
+    },
+    {
+        "Snooze": "\uf4bd"
     },
     {
         "SurfaceHubSelected": "\uf4be"
@@ -3993,6 +4152,21 @@
         "WifiCall4": "\uf65c"
     },
     {
+        "Pen": "\uf67b"
+    },
+    {
+        "TextSelect": "\uf683"
+    },
+    {
+        "TextNavigate": "\uf684"
+    },
+    {
+        "PinyinIMELogo2": "\uf698"
+    },
+    {
+        "UserRemove": "\uf69b"
+    },
+    {
         "CHTLanguageBar": "\uf69e"
     },
     {
@@ -4003,6 +4177,15 @@
     },
     {
         "EmojiTabMoreSymbols": "\uf6ba"
+    },
+    {
+        "PhoneScreen": "\uf6c4"
+    },
+    {
+        "AlertUrgent": "\uf6c5"
+    },
+    {
+        "PhoneDesktop": "\uf6c6"
     },
     {
         "WebSearch": "\uf6fa"
@@ -4207,5 +4390,44 @@
     },
     {
         "ClickedOutLoudSolidBold": "\uf8b3"
+    },
+    {
+        "VPNOverlay": "\uf8c0"
+    },
+    {
+        "VPNRoamingOverly": "\uf8c1"
+    },
+    {
+        "WifiVPN3": "\uf8c2"
+    },
+    {
+        "WifiVPN4": "\uf8c3"
+    },
+    {
+        "WifiVPN5": "\uf8c4"
+    },
+    {
+        "SignalBarsVPN2": "\uf8c5"
+    },
+    {
+        "SignalBarsVPN3": "\uf8c6"
+    },
+    {
+        "SignalBarsVPN4": "\uf8c7"
+    },
+    {
+        "SignalBarsVPN5": "\uf8c8"
+    },
+    {
+        "SignalBarsVPNRoaming3": "\uf8c9"
+    },
+    {
+        "SignalBarsVPNRoaming4": "\uf8ca"
+    },
+    {
+        "SignalBarsVPNRoaming5": "\uf8cb"
+    },
+    {
+        "EthernetVPN": "\uf8cc"
     }
 ]
