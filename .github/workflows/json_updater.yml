@@ -16,6 +16,8 @@ jobs:
 
       - name: checkout repo content
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.TOKEN }}
 
       - name: setup python
         uses: actions/setup-python@v5
